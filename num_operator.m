@@ -5,5 +5,7 @@ elseif(n==2)
     result = a-b;
 elseif(n==3)
     result = a*b;
+elseif(n==4)
+    result = a*a;
 end
 end
